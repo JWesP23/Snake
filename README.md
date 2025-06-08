@@ -26,8 +26,6 @@ A classic Snake game built using Python's `turtle` graphics library. Control the
 
 ## How to Run
 
-1. Clone the repository:
-
 ```bash
 git clone https://github.com/JWesP23/snake-game.git
 cd snake-game
